@@ -1,5 +1,3 @@
-
-# FILE 6: COLLECTIVE RISK / MONTE CARLO SIMULATION
 #file 6 collective risk with monte carlo simulation
 
 
